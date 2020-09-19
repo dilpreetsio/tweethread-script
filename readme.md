@@ -3,7 +3,7 @@ Tweet threads from cli using csv
 
 ## How to use
 ```
-pip install python-dotenv
+pip install requirements.txt
 ```
 
 Save twitter app credentials 
